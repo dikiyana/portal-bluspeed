@@ -96,6 +96,7 @@ Use the following command
 npx create-react-app my-app --template adrinlol
 cd my-app
 npm start
+Visit http://localhost:3000 in your browser.
 ```
 
 ## What's included
